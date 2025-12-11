@@ -137,3 +137,5 @@ Power BI
 DAX & Data Modeling
 
 Analytical Problem Solving
+
+ Fitness Analytics Dashboard:-https://github.com/skmustaqahmad/Fitness-Analytics-Dashboard/blob/main/Screenshot%202025-11-13%20155652.png
